@@ -1,0 +1,16 @@
+{
+  "name": "snowbot",
+  "version": "1.0.0",
+  "description": "Slack integration for open snow resort reports",
+  "main": "bin/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.69.0",
+    "slackbots": "^0.5.1"
+  }
+}
